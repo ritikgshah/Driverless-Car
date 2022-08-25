@@ -14,6 +14,6 @@ To watch the video recorded while running this project which shows the car compl
 
 I encountered errors while pushing to github from the command line, thus I had to upload from the website which has restrictions and thus the files are not properly structured. 
 Most of the files are uasset files which are used by Unreal Engine, but cannot be viewed on github, hence I was unable to move the files into the correct folders on the github website.
-If you wish to download the code for any reason please use this drive link as it has the code according to its perfect structure: 
+If you wish to download the code for any reason please use this drive link as it has the code according to its perfect structure: https://drive.google.com/drive/folders/1XScrcDiNi1KNmM-qmu1U6nhBsDd8BDWe?usp=sharing
 
 To run the game, you have to run the AI_Car.uproject file. Be sure to run the game only on Unreal Engine 4 (it will not work with other versions).
